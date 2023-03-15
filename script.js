@@ -1,4 +1,4 @@
-// https://dog.ceo/api/breeds/image/random
+
 const dogImageDiv=document.getElementById('dogImage')
 const dogButtonDiv=document.getElementById('dogButton')
 
